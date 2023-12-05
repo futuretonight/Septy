@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.3.5-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/htr-tech/septy?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/htr-tech/septy?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/htr-tech/septy?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/htr-tech/septy?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-1.0.0-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/futuretonight/septy?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/futuretonight/septy?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/futuretonight/septy?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/futuretonight/septy?color=teal&style=for-the-badge">
 </p>
 
 <p align="center">
