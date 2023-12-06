@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-darkcyan?style=flat-square">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhtr-tech%2/septy&title=Visitors&edge_flat=false"/></a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffuturetonight%2/septy&title=Visitors&edge_flat=false"/></a>
 </p>
 
 <p align="center"><b>A beginners friendly, Automated phishing tool with 30+ templates.<br>& this tool is a crossover of/septy & url-masking</b></p>
@@ -78,7 +78,7 @@ $ septy
 ##
 
 <p align="left">
-  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/htr-tech/septy.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
+  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/futuretonight/septy.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
 </p>
 
 ##
@@ -115,7 +115,7 @@ $ septy
 - By using the wrapper script [**run-docker.sh**](https://raw.githubusercontent.com/futuretonight/septy/master/run-docker.sh)
 
   ```
-  $ curl -LO https://raw.githubusercontent.com/htr-tech/septy/master/run-docker.sh
+  $ curl -LO https://raw.githubusercontent.com/futuretonight/septy/master/run-docker.sh
   $ bash run-docker.sh
   ```
 - Temporary Container
