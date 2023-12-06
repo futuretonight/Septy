@@ -158,7 +158,7 @@ $ septy
 
 ##
 
-### *thanks to creators of those tools and to their creators!*:
+### *thanks to creators of those tools and to their contributors!*:
 
 <table>
   <tr align="center">
